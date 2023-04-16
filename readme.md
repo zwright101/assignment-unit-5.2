@@ -1,11 +1,14 @@
 # Unit 5, Part 2 - HTML/CSS Practice
 
-This unit, we'll be exploring objects by creating an application to help maintain a record collection. We will be creating objects using `object literal` syntax.
+This assignment, we'll be reviewing HTML and CSS by styling a page which could be used for a record collection.
 
 ## Topics Covered
 
-- objects
-- HTML & CSS
+- HTML review
+- `background-color`
+- `background-image`
+- `margin`
+- `padding`
 
 ## Assignment - Practice with HTML & CSS
 
