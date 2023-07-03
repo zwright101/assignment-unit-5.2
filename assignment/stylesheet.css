@@ -1,0 +1,15 @@
+.header {
+    background-color: #4F2683;
+    color: #FFC62F;
+    text-align: center;
+}
+.main {
+    padding: 1em;
+    background-color: #bcbcbc;
+    
+}
+body {
+    margin: 0;
+    background-image: url(/Users/zachwright/Documents/Prime/Assignments/assignment-unit-5.2/assignment/record.png);
+    background-repeat: repeat;
+}
